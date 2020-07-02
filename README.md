@@ -4,6 +4,7 @@
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 - [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)
 - [Code Cover](https://marketplace.visualstudio.com/items?itemName=bradleymeck.codecover)
+- [Copy filename](https://marketplace.visualstudio.com/items?itemName=jack89ita.copy-filename)
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 - [Duplicate action](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate)
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
