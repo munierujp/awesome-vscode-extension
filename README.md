@@ -21,4 +21,5 @@
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 - [Toggle Quotes](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes)
 - [TOML Language Support](https://marketplace.visualstudio.com/items?itemName=be5invis.toml)
+- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
