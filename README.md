@@ -1,5 +1,6 @@
 # awesome-vscode-extension
 
+- [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 - [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)
 - [Code Cover](https://marketplace.visualstudio.com/items?itemName=bradleymeck.codecover)
