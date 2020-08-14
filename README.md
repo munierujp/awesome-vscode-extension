@@ -2,6 +2,7 @@
 
 - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 - [AWS Toolkit](https://marketplace.visualstudio.com/items?itemName=amazonwebservices.aws-toolkit-vscode)
+- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 - [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)
 - [Code Cover](https://marketplace.visualstudio.com/items?itemName=bradleymeck.codecover)
