@@ -24,3 +24,4 @@
 - [TOML Language Support](https://marketplace.visualstudio.com/items?itemName=be5invis.toml)
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+- [zenkaku](https://marketplace.visualstudio.com/items?itemName=mosapride.zenkaku)
