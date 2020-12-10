@@ -30,4 +30,5 @@
 - [TOML Language Support](https://marketplace.visualstudio.com/items?itemName=be5invis.toml)
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+- [VS Code Counter](https://marketplace.visualstudio.com/items?itemName=uctakeoff.vscode-counter)
 - [zenkaku](https://marketplace.visualstudio.com/items?itemName=mosapride.zenkaku)
