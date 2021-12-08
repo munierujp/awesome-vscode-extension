@@ -4,7 +4,6 @@
 - [AWS Toolkit](https://marketplace.visualstudio.com/items?itemName=amazonwebservices.aws-toolkit-vscode)
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 - [Bracket Lens](https://marketplace.visualstudio.com/items?itemName=wraith13.bracket-lens)
-- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 - [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 - [codic](https://marketplace.visualstudio.com/items?itemName=pizzacat83.codic)
