@@ -5,7 +5,6 @@
 - [Bracket Lens](https://marketplace.visualstudio.com/items?itemName=wraith13.bracket-lens)
 - [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
-- [codic](https://marketplace.visualstudio.com/items?itemName=pizzacat83.codic)
 - [Copy filename](https://marketplace.visualstudio.com/items?itemName=jack89ita.copy-filename)
 - [Coverage Gutters](https://marketplace.visualstudio.com/items?itemName=ryanluker.vscode-coverage-gutters)
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
