@@ -1,6 +1,5 @@
 # awesome-vscode-extension
 
-- [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 - [AWS Toolkit](https://marketplace.visualstudio.com/items?itemName=amazonwebservices.aws-toolkit-vscode)
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 - [Bracket Lens](https://marketplace.visualstudio.com/items?itemName=wraith13.bracket-lens)
