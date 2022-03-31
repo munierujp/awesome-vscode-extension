@@ -1,5 +1,6 @@
 # awesome-vscode-extension
 
+- [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 - [Bracket Lens](https://marketplace.visualstudio.com/items?itemName=wraith13.bracket-lens)
 - [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)
