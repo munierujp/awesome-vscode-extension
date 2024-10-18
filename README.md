@@ -1,6 +1,5 @@
 # awesome-vscode-extension
 
-- [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 - [Bracket Lens](https://marketplace.visualstudio.com/items?itemName=wraith13.bracket-lens)
 - [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)
@@ -14,6 +13,7 @@
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 - [Japanese Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja)
+- [JS-Beautify for VS Code](https://marketplace.visualstudio.com/items?itemName=vsce-toolroom.vscode-beautify)
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - [markuplint](https://marketplace.visualstudio.com/items?itemName=yusukehirao.vscode-markuplint)
 - [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
